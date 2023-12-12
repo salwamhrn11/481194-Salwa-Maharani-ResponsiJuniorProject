@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BBR01TGPBc5lgkdYrTKMpLLMKkSgi4bm46QfCqSuwgBsNWtmvoa841TnHzgsRr/2V6mN7W9cTPnllZX2PHMyaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\salwa maharani\\source\\repos\\481194-Salwa Maharani-ResponsiJuniorProject\\481194-Salwa Maharani-ResponsiJuniorProject\\481194-Salwa Maharani-ResponsiJuniorProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salwa maharani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\salwa maharani\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\salwa maharani\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
